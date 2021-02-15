@@ -1,0 +1,9 @@
+# Dotfiles & folders
+.vscode
+.env
+
+# Node
+node_modules
+
+# Production
+prod
